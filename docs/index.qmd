@@ -28,9 +28,9 @@ Welcome to Tongzhou Yoga International.
 
 # Locations
 
-- [Burwood](burwood.html)
-- [Chatswood](https://maps.app.goo.gl/uL4VSDzkmQj3h9qh6)
-- [Eastwood](https://maps.app.goo.gl/sSt5EMpC6rXzkMZD7)
+- [Burwood](locations/burwood.html)
+- [Chatswood](locations/chatswood.html)
+- [Eastwood](locations/eastwood.html)
 - Hurstville: 1/303 Forest Road, Hurstville
 - Rhodes **Coming soon!**
 

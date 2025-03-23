@@ -5,16 +5,15 @@ project:
 website:
   navbar: 
     logo: docs/tongzhou_logo.jpg
-    logo-href: index.qmd
     left:
       - text: Burwood
-        file: docs/burwood.qmd
+        file: docs/locations/burwood.qmd
       - text: Eastwood
-        file: docs/eastwood.qmd
+        file: docs/locations/eastwood.qmd
       - text: Chatswood
-        file: docs/chatswood.qmd
+        file: docs/locations/chatswood.qmd
       - text: Rhodes
-        file: docs/rhodes.qmd
+        file: docs/locations/rhodes.qmd
 format:
   html:
     theme:
