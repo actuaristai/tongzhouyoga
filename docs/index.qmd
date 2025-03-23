@@ -3,11 +3,10 @@ title: "Tongzhou Yoga"
 ---
 
 Welcome to Tongzhou Yoga International.
-
 # Locations
 
-- Burwood: [Suite 3/63-65 Burwood Rd, Burwood NSW 2134] (https://maps.app.goo.gl/7DxHUB5gTu5aLtHy6)
-- Chatswood: [414 Victoria Ave, Chatswood NSW 2067] (https://maps.app.goo.gl/uL4VSDzkmQj3h9qh6)
+- Burwood: [Suite 3/63-65 Burwood Rd, Burwood NSW 2134](https://maps.app.goo.gl/7DxHUB5gTu5aLtHy6)
+- Chatswood: [414 Victoria Ave, Chatswood NSW 2067](https://maps.app.goo.gl/uL4VSDzkmQj3h9qh6)
 - Eastwood: [Suite 2D/14 Glen St, Eastwood NSW 2122](https://maps.app.goo.gl/sSt5EMpC6rXzkMZD7)
 - Hurstville: 1/303 Forest Road, Hurstville
 - Rhodes **Coming soon!**
