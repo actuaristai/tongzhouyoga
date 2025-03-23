@@ -4,21 +4,21 @@ title: "Tongzhou Yoga"
 
 Welcome to Tongzhou Yoga International.
 
+# Type of Yoga Available
+- Hatha
+- Bikram / Hot Yoga
+- Ashtanga Yoga
+- Flying Yoga
+
 # Locations
 
-- Burwood: [Suite 3/63-65 Burwood Rd, Burwood NSW 2134](https://maps.app.goo.gl/7DxHUB5gTu5aLtHy6)
-- Chatswood: [414 Victoria Ave, Chatswood NSW 2067](https://maps.app.goo.gl/uL4VSDzkmQj3h9qh6)
-- Eastwood: [Suite 2D/14 Glen St, Eastwood NSW 2122](https://maps.app.goo.gl/sSt5EMpC6rXzkMZD7)
+- [Burwood](burwood.html)
+- [Chatswood](https://maps.app.goo.gl/uL4VSDzkmQj3h9qh6)
+- [Eastwood](https://maps.app.goo.gl/sSt5EMpC6rXzkMZD7)
 - Hurstville: 1/303 Forest Road, Hurstville
 - Rhodes **Coming soon!**
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IHHxT-4T7I-iD60S2mXVg_P1pQ998yc&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-
-# Type of Yoga Available
-Hatha
-Bikram / Hot Yoga
-Ashtanga Yoga
-Flying Yoga
 
 # Timetable
 
