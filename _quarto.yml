@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: ./_site
+
+website:
+  title: "tongzhouyoga"
+  navbar:
+    left:
+      - href: docs/index.qmd
+        text: Home
+      - docs/about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
