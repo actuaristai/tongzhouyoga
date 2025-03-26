@@ -1,7 +1,44 @@
 ---
-title: "tongzhouyoga"
+title: "Tongzhou Yoga"
+lightbox: true
 ---
 
-This is a Quarto website.
+Welcome to Tongzhou Yoga International.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Type of Yoga Available
+- Hatha
+- Bikram / Hot Yoga
+- Ashtanga Yoga
+- Flying Yoga
+
+# Image Gallery
+![Outdoor](images/outdoor.webp){.lightbox group="my-gallery"}
+![100 People yoga meditation, 2018](images/big_circle.webp){.lightbox group="my-gallery"}
+![100 People yoga meditation, 2018](images/china_v.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white2.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white3.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white4.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white5.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white6.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white7.webp){.lightbox group="my-gallery"}
+![Photos of the museum](images/white8.webp){.lightbox group="my-gallery"}
+![India](images/indian.webp){.lightbox group="my-gallery"}
+![India](images/indian_bg.webp){.lightbox group="my-gallery"}
+
+
+# Locations
+
+- [Burwood](locations/burwood.html)
+- [Chatswood](locations/chatswood.html)
+- [Eastwood](locations/eastwood.html)
+- Hurstville: 1/303 Forest Road, Hurstville
+- Rhodes **Coming soon!**
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IHHxT-4T7I-iD60S2mXVg_P1pQ998yc&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+# Timetable
+
+# Information
+
+# Testimonies
+

@@ -3,13 +3,17 @@ project:
   output-dir: ./_site
 
 website:
-  title: "tongzhouyoga"
-  navbar:
+  navbar: 
+    logo: docs/tongzhou_logo.jpg
     left:
-      - href: docs/index.qmd
-        text: Home
-      - docs/about.qmd
-
+      - text: Burwood
+        file: docs/locations/burwood.qmd
+      - text: Eastwood
+        file: docs/locations/eastwood.qmd
+      - text: Chatswood
+        file: docs/locations/chatswood.qmd
+      - text: Rhodes
+        file: docs/locations/rhodes.qmd
 format:
   html:
     theme:

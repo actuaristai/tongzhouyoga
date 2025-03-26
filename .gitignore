@@ -4,3 +4,5 @@ __pycache__/
 
 /.quarto/
 _site
+.secrets.toml
+site_libs
