@@ -12,6 +12,12 @@ Welcome to Tongzhou Yoga International.
 - Flying Yoga
 
 # Image Gallery
+![Class Photo](images/class_photo1.webp){.lightbox group="my-gallery"}
+![Class Photo](images/class_photo2.webp){.lightbox group="my-gallery"}
+![Class Photo](images/class_photo3.webp){.lightbox group="my-gallery"}
+![Class Photo](images/class_photo4.webp){.lightbox group="my-gallery"}
+![Class Photo](images/class_photo5.webp){.lightbox group="my-gallery"}
+![Class Photo](images/class_photo6.webp){.lightbox group="my-gallery"}
 ![Outdoor](images/outdoor.webp){.lightbox group="my-gallery"}
 ![100 People yoga meditation, 2018](images/big_circle.webp){.lightbox group="my-gallery"}
 ![100 People yoga meditation, 2018](images/china_v.webp){.lightbox group="my-gallery"}
